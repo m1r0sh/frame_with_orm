@@ -2,7 +2,6 @@ use actix_web::{
     post,
     HttpResponse,
     Responder,
-    HttpRequest,
 };
 use serde::{Deserialize, Serialize};
 
