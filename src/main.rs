@@ -5,6 +5,7 @@ mod services;
 mod auth;
 mod db;
 mod models;
+mod models;
 
 use services::greet;
 use services::greetest;
